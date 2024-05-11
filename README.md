@@ -20,7 +20,7 @@ O AI-NetGUARD representa um avanço significativo na segurança digital, oferece
 •	Instalar a biblioteca do Google Gemini</br>
 ->	pip install google-generativeai</br>
 •	Instalar a biblioteca do Flask</br>
-o	pip install -U Flask</br>
+->	pip install -U Flask</br>
 # Executando o AI-NetGUARD
 •	Windows - PowerShell</br>
    python .\main.py</br>
