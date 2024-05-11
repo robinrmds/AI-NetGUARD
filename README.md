@@ -18,13 +18,14 @@ O AI-NetGUARD representa um avanço significativo na segurança digital, oferece
 # Instruções de instalação
 •	Instalar o Python em seu sistema operacional </br>
 •	Instalar a biblioteca do Google Gemini</br>
-o	pip install google-generativeai</br>
+->	pip install google-generativeai</br>
+•	Instalar a biblioteca do Flask</br>
 o	pip install -U Flask</br>
 # Executando o AI-NetGUARD
 •	Windows - PowerShell</br>
-python .\main.py</br>
+   python .\main.py</br>
 •	Linux - Bash</br>
-python  ./main.py</br>
+   python  ./main.py</br>
 
 # Acesso WEB
 http://127.0.0.1:5000
