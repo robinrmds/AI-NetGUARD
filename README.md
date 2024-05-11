@@ -1,5 +1,5 @@
-# AI-NetGUARD
-AI-NetGUARD:  Proteção Inteligente Contra Ataques Cibernéticos 
+
+# AI-NetGUARD:  Proteção Inteligente Contra Ataques Cibernéticos 
 Em um mundo cada vez mais conectado, a segurança digital se torna uma necessidade fundamental. É nesse cenário que surge o AI-NetGUARD, um software inovador que utiliza a inteligência artificial do Google Gemini para proteger seus dispositivos e aplicações contra ataques cibernéticos, além de automatizar a resposta a ameaças.
 O AI-NetGUARD opera de maneira inteligente e proativa. Ele funciona analisando os logs enviados ao servidor syslog, que registra eventos e atividades relevantes em sua rede. Esses logs são então submetidos à poderosa IA do Gemini, que realiza uma avaliação minuciosa para determinar se o log representa um risco potencial de ataque.
 Veja como funciona:
