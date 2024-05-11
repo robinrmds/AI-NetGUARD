@@ -15,14 +15,16 @@ Benefícios do AI-NetGUARD:
 •	Adaptabilidade: O sistema aprende com os dados e se adapta às novas ameaças.
 O AI-NetGUARD representa um avanço significativo na segurança digital, oferecendo uma solução inteligente e eficaz para proteger seus dados e sistemas. Com sua combinação de análise de logs, inteligência artificial e automação de resposta, o AI-NetGUARD se torna uma ferramenta essencial para garantir a segurança da sua rede.
 
-Instruções de instalação
+# Instruções de instalação
 •	Instalar o Python em seu sistema operacional
 •	Instalar a biblioteca do Google Gemini
 o	pip install google-generativeai
 o	pip install -U Flask
-Executando o AI-NetGUARD
+# Executando o AI-NetGUARD
 •	Windows - PowerShell
 python .\main.py
 •	Linux - Bash
 python  ./main.py
 
+# Acesso WEB
+http://127.0.0.1:5000
